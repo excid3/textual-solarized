@@ -2,7 +2,7 @@ Textual-Solarized is a Textual IRC style for OSX. You can find Textual at http:/
 
 I have derived this from the Simplified Dark theme bundled with Textual and have applied some of the Solarized color scheme (http://ethanschoonover.com/solarized) to it.
 
-![Screenshot](http://cl.ly/5qB3/Screen_shot_2011-04-08_at_9.15.28_PM.png)
+![Screenshot](http://f.cl.ly/items/0X0m1E1Y37353p1w2h2R/Screen%20shot%202011-04-08%20at%209.15.28%20PM.png)
 
 Installation
 ============
