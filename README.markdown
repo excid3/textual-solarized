@@ -7,3 +7,6 @@ I have derived this from the Simplified Dark theme bundled with Textual and have
 Installation
 ============
 Checkout this git repo into ~/Library/Application Support/Textual/Styles in a sub-folder and it will be an available option in the Textual preferences pane.
+
+    cd ~/Library/Application Support/Textual/Styles
+    git clone https://excid3@github.com/excid3/textual-solarized.git
