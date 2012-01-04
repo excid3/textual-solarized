@@ -330,6 +330,81 @@ body .inline_nickname[colornumber='15'] {
 	color: #FF1676;
 }
 
+body .sender[type=normal][colornumber='16'], 
+body .inline_nickname[colornumber='16'] { 
+	color: red; 
+}
+
+body .sender[type=normal][colornumber='17'], 
+body .inline_nickname[colornumber='17'] { 
+	color: #636aff; 
+}
+
+body .sender[type=normal][colornumber='18'], 
+body .inline_nickname[colornumber='18'] { 
+	color: #00BA00; 
+}
+
+body .sender[type=normal][colornumber='19'], 
+body .inline_nickname[colornumber='19'] { 
+	color: #C083F2; 
+}
+
+body .sender[type=normal][colornumber='20'], 
+body .inline_nickname[colornumber='20'] { 
+	color: #4DEDF0; 
+}
+
+body .sender[type=normal][colornumber='21'], 
+body .inline_nickname[colornumber='21'] { 
+	color: #E422B2; 
+}
+
+body .sender[type=normal][colornumber='22'],
+body .inline_nickname[colornumber='22'] { 
+	color: #EAE87E; 
+}
+
+body .sender[type=normal][colornumber='23'], 
+body .inline_nickname[colornumber='23'] { 
+	color: #B8DFFF; 
+}
+
+body .sender[type=normal][colornumber='24'],
+body .inline_nickname[colornumber='24'] { 
+	color: #75A1FB; 
+}
+
+body .sender[type=normal][colornumber='25'], 
+body .inline_nickname[colornumber='25'] { 
+	color: #97C74B; 
+}
+
+body .sender[type=normal][colornumber='26'], 
+body .inline_nickname[colornumber='26'] { 
+	color: #A5EAC4; 
+}
+
+body .sender[type=normal][colornumber='27'], 
+body .inline_nickname[colornumber='27'] { 
+	color: #FFA6A0; 
+}
+
+body .sender[type=normal][colornumber='28'], 
+body .inline_nickname[colornumber='28'] { 
+	color: #8E67E7; 
+}
+
+body .sender[type=normal][colornumber='29'], 
+body .inline_nickname[colornumber='29'] { 
+	color: #FFBB58; 
+}
+
+body .sender[type=normal][colornumber='30'], 
+body .inline_nickname[colornumber='30'] { 
+	color: #EDD7AD; 
+}
+
 /* mIRC Color Codes */
 
 /* DEVELOPERS DO NOT MODIFY ANY OF THE BELOW MENTIONED CSS ELEMENTS 
