@@ -8,5 +8,5 @@ Installation
 ============
 Checkout this git repo into ~/Library/Application Support/Textual/Styles in a sub-folder and it will be an available option in the Textual preferences pane.
 
-    cd ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application Support/Textual IRC/Styles
+    cd ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application\ Support/Textual\ IRC/Styles/
     git clone https://excid3@github.com/excid3/textual-solarized.git
